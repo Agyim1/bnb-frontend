@@ -4,7 +4,7 @@
     <div class="details-map-container">
       <div class="contact-details">
         <h1>Contact Us</h1>
-        <p><strong>Camp Booking</strong></p>
+        <p><strong>Dreamland Retreat</strong></p>
         <p><i class="fas fa-map-marker-alt"></i> 123 Camp Lane, Natureville, Earth</p>
         <p><i class="fas fa-phone"></i> (123) 456-7890</p>
         <p><i class="fas fa-envelope"></i> contact@campbooking.com</p>

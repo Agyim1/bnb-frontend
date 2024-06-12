@@ -1,6 +1,6 @@
 <template>
     <nav>
-      <div class="logo">Camp Booking</div>
+      <div class="logo">Dreamland Retreat</div>
       <ul class="nav-links">
         <li><router-link to="/">Home</router-link></li>
         <li><router-link to="/campsites">Campsites</router-link></li>
